@@ -10,7 +10,7 @@ export default function WeatherApp() {
       <div className="container">
         <div className="card">
           <div className="card-body">
-            <SearchForm defaultCity="Kathmandu" />
+            <SearchForm defaultCity="Kathmandu"/>
           </div>
           <div className="row">
           </div>
