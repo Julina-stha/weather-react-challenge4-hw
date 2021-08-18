@@ -6,7 +6,7 @@ export default function FirstSection() {
     <div className="footer">
       <small className="small-text">
         <a
-          href="https://github.com/Julina-stha/Weather-App-Project"
+          href="https://github.com/Julina-stha/weather-react-challenge4-hw"
           target="blank"
         >
           Open-source code 
